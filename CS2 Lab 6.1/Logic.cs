@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+* CS2 – Lab 6.1
+* Author: Brogen Campbell
+* Date: 02/24/2026
+* Description: This class takes the input of the user and computer to determine the winner and return it.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
